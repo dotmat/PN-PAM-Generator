@@ -1,5 +1,5 @@
 # PubNub Access Manager (PAM V3) Token Generator
-This NodeJS Server can be used to help DEV test your[PubNub](https://www.pubnub.com/) secured channels.
+This NodeJS Server can be used to help DEV test your [PubNub](https://www.pubnub.com/) secured channels.
 The idea here is that you can enable access manager on your Keyset within PubNub and then quickly test channel connectivity to those channels by authorising a UUID. 
 
 ## What parameters do I need to pass?
