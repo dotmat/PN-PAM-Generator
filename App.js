@@ -68,7 +68,6 @@ app.post('/api/v1/generatetoken', (request, response) => {
             resources: {
                 channels: channelsToGrantTo
             },
-
         },
         function (status, token) {
             console.log(token)
